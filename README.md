@@ -15,7 +15,7 @@ Pellegrini, M., Lake, C., Neitzel, A., & Slavin, R.E. (2020). Data archive for "
 ## Authors
 The authors are researchers in the [Dipartimento di Scienze della Formazione e Psicologia](https://www.forlilpsi.unifi.it/index.php) at the [University of Florence](https://www.unifi.it/) and the [Center for Research and Reform in Education (CRRE)](https://education.jhu.edu/crre/) at [Johns Hopkins University (JHU)](https://www.jhu.edu/).
 
-* **Marta Pellegrini, PhD** - [Faculty Profile](https://flore.unifi.it/cris/rp/rp09142)
+* **Marta Pellegrini, PhD** - [Faculty Profile](https://www.unifi.it/p-doc2-0-0-A-3f2b3c29392f2d.html)
 * **Cynthia Lake, MA** - [Faculty Profile](https://education.jhu.edu/directory/cynthia-lake-ma/) 
 * **Amanda Neitzel, PhD** - [Faculty Profile](https://education.jhu.edu/directory/amanda-inns-phd/)
 * **Robert Slavin, PhD** - [Faculty Profile](https://education.jhu.edu/directory/robert-e-slavin-phd/)
