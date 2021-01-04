@@ -1,0 +1,157 @@
+"Program","Authors","Year","Publication.Status","Table number","Table topic","Technology","Tutoring.Provider","Tutoring.Type","Tutoring.ExtraTime","Design","Randomized","Clustered","Unit of assignment","Grade","Duration","Duration.Band","Sample Description","International","Urbanicity","AA.P","H.P","ELL.P","FRL.P"
+"Math Recovery","Smith et al.","2013","unpublished","1","Tutoring","0","Teachers","One-to-one","Extra Time","Quasi-experiment","0","0","Students","1","1 year","one year","Low achieving students from 5 urban, suburban, and rural districts
+ 48% minority, 15% ELL, 65% FRL","0","Urban + Suburban + Rural","NA","NA","15","65"
+"Numbers Count","Torgerson et al.","2013","published","1","Tutoring","0","Teachers","One-to-one","Extra Time","Student randomized","1","0","Students","Year 2 (grade 1)","12 weeks","less than one year","Low performing students in 44 schools across England, 75% FRL","1","NA","NA","NA","NA","75"
+"Catch Up® Numeracy","Hodgen et al.","2019","unpublished","1","Tutoring","0","Paraprofessionals","One-to-one","No Extra Time","Cluster randomized","1","1","Schools","year 4, 5 (grade 3, 4)","1 year","one year","Urban and rural schools in England. Underperforming students.
+22% FRL","1","Urbal + Rural","NA","NA","NA","22"
+"Catch Up® Numeracy","Rutt et al.","2014","unpublished","1","Tutoring","0","Paraprofessionals","One-to-one","No Extra Time","Student randomized","1","0","Students","Year 2-6 (grade 1-5)","30 weeks","less than one year","54 schools in Oxford, Southend and Thurrock, UK
+struggling students in numeracy
+35% FRL","1","NA","NA","NA","NA","35"
+"Galaxy Math","Fuchs et al.","2013a","published","1","Tutoring","0","Paraprofessionals","One-to-one","Not Possible","Student randomized","1","0","Students","1","16 weeks","less than one year","Students at risk in a a metropolitan Southeast school district
+ 69% AA, 7% H, 83% FRL","0","Urban","69","7","NA","83"
+"Maths Counts","See et al.","2018","unpublished","1","Tutoring","1","Paraprofessionals","One-to-one","Not Possible","Student randomized","1","0","Students","Year 3-6 (grade 2-5)","3 months","less than one year","Low performing students in England. 37% FRL,  54% SEN","1","NA","NA","NA","NA","37"
+"Pirate Math","Fuchs et al.","2010","published","1","Tutoring","0","Paraprofessionals","One-to-one","Extra Time","Student randomized","1","0","Students","3","16 weeks","less than one year","2 urban school districts in Nashville an Houston
+Low performing students
+ 35% SPED, 19% ELL, 56% AA, 29% H, 75% FRL","0","Urban","56","29","19","75"
+"Math Corps","Parker et al.","2019","published","1","Tutoring","0","PaidVolunteers","One-to-one","Not Possible","Student randomized","1","0","Students","4-6","6 months","less than one year","12 schools in urban and rural Minnesota
+low achievers
+35% W, 27% AA, 20%A, 1% H, 61% FRL","0","Urban + SRural","27","1","NA","61"
+"Number Rockets","Gersten et al.","2015","published","1","Tutoring","0","Teachers","One-to-small","No Extra Time","Cluster randomized","1","1","Schools","1","6 months","less than one year","4 districts across 4 southwestern states.
+Student at-risk for difficulties in math.
+ 44% AA, 46% H, 34% FRL","0","NA","44","46","NA","34"
+"1stClass@Number","Nunes et al.","2018","unpublished","1","Tutoring","1","Paraprofessionals","One-to-small","Extra Time","Cluster randomized","1","1","Schools","Year 2 (grade 1)","3 months","less than one year","Students performing below age expectations. England. 40% FRL","1","Urban + Rural","NA","NA","NA","40"
+"Affordable Primary Tuition","Torgerson et al.","2018","unpublished","1","Tutoring","0","Paraprofessionals","One-to-small","Not Possible","Cluster randomized","1","1","Schools","Year 6 (grade 5)","12 weeks","less than one year","England. Low performing students
+48% FRL, 72% W.","1","NA","NA","NA","NA","48"
+"FocusMATH","Styers & Baird-Wilkerson","2011","unpublished","1","Tutoring","0","Paraprofessionals","One-to-small","Extra Time","Student randomized","1","0","Students","3, 5","1 year","more than one year","Low achieving students from 7 districts in the Southwest, Southeast, Midwest, Northeast
+ 23% AA, 33% H, 24% LEP, 12% SPED, 71% FRL","0","NA","23","33","24","71"
+"Fraction Face-Off!","Fuchs et al.","2013b","published","1","Tutoring","0","Paraprofessionals","One-to-small","No Extra Time","Student randomized","1","0","Students","4","12 weeks","less than one year","At risk students in 13 schools
+82% FRL, 11% ELL, 5% SPED, 53% AA, 25% W, 19% H","0","NA","53","19","11","82"
+"Fraction Face-Off!","Fuchs et al.","2016a","published","1","Tutoring","0","Paraprofessionals","One-to-small","No Extra Time","Student randomized","1","0","Students","4","12 weeks","less than one year","Students at risk from 14 schools
+17% ELL, 88% FRL, 15% SPED, 58% AA, 16% W, 17% H","0","NA","58","17","17","88"
+"Fraction Face-Off!","Fuchs et al.","2016b","published","1","Tutoring","0","Paraprofessionals","One-to-small","No Extra Time","Student randomized","1","0","Students","4","12 weeks","less than one year","Students at risk
+ 49% AA, 27% H, 18% ELL, 90% FRL","0","NA","49","27","18","90"
+"Fraction Face-Off!","Malone et al.","2019","published","1","Tutoring","0","Paraprofessionals","One-to-small","No Extra Time","Student randomized","1","0","Students","4","12 weeks","less than one year","At-risk students in a large US city. 16% W, 43% AA, 25% H, 14% SPED, 20% ELL,  88% FRL","0","Urban","43","25","20","88"
+"Fusion Math","Clarke et al.","2014","published","1","Tutoring","0","Paraprofessionals","One-to-small","Extra Time","Student randomized","1","0","Students","1","19 weeks","less than one year","Students at risk from 2 suburban districts in the Pacific Northwest
+ 20% H, 18% ELL, 70% FRL, 12% SPED","0","Suburban","NA","20","18","70"
+"Onebillion maths apps","Nunes et al.","2019","unpublished","1","Tutoring","1","Paraprofessionals","One-to-small","Extra Time","Cluster randomized","1","1","Schools","Year 1 (K)","12 weeks","less than one year","Low performing students in England. 25% FRL","1","Urban + Rural","NA","NA","NA","25"
+"ROOTS","Clarke et al.","2016","published","1","Tutoring","0","Paraprofessionals","One-to-small","Extra Time","Student randomized","1","0","Students","K","4 months","less than one year","14 schools across 4 districts in the metropolitan area of Portland and suburban and rural areas of western Oregon
+low performing students
+5% AA, 58% W, 33% H, 32% LEP, 11% SPED","0","Urban + Suburban + Rural","5","33","32","NA"
+"ROOTS","Doabler et al.","2016","published","1","Tutoring","0","Paraprofessionals","One-to-small","Extra Time","Student randomized","1","0","Students","K","5 months","less than one year","9 schools from metropolitan area of Boston
+ Students at risk
+ 7% AA, 89% W, 50% H, 26% ELL","0","Urban","7","50","26","NA"
+"ROOTS","Clarke et al.","2017","published","1","Tutoring","0","Paraprofessionals","One-to-small","Extra Time","Student randomized","1","0","Students","K","4 months","less than one year","Suburban and rural schools in Oregon.
+Low performing students.
+55% W, 4% AA, 26% H, 26% LEP, 10% SPED, 87% FRL","0","Suburban + Rural","4","26","26","87"
+"Working Memory Intervention","Wright et al.","2019","unpublished","1","Tutoring","0","Paraprofessionals","One-to-small","Not Possible","Cluster randomized","1","1","Schools","year 3 (grade 2)","5 months","less than one year","England. 37% FRL, 80% W","1","NA","NA","NA","NA","37"
+"Affordable Online Maths Tuition","Torgerson et al.","2016","unpublished","1","Tutoring","0","Online one-to-one","Online one-to-one","Not Possible","Cluster randomized","1","1","Schools","Year 6 (grade 5)","27 weeks","less than one year","Across England
+struggling students in numeracy
+92% FRL, 43% minority","1","Urban","NA","NA","NA","92"
+"Shared Maths","Lloyd et al.","2015","unpublished","1","Tutoring","0","Cross-age","Cross-age","Not Possible","Cluster randomized","1","1","Schools","Year 3, 5 (grade 2, 4)","2 years (2 blocks of 16 weeks)","more than one year","Across UK
+ 22% FRL, 86% W, 4% Black, 5%  A","1","NA","4","NA","NA","22"
+"CASL","Randel et al.","2016","unpublished","2","PD content and pedagogy","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","4, 5","1-2 years","more than one year","Urban, suburban and rural public schools Colorado
+ 56% W, 27% H, 47% FRL","0","Urban + Suburban + Rural","NA","27","NA","47"
+"Cognitively Guided Instruction (CGI)","Schoen et al.","2020","unpublished","2","PD content and pedagogy","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","1, 2","1 year","one year","Two districts in Florida
+60% FRL, 18% AA, 37% H, 37% W, 23% ELL","0","Urban + Suburban","18","37","23","60"
+"Intel Math","Garet et al.","2016","unpublished","2","PD content and pedagogy","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","4","1 year","one year","six urban, suburban, rural districts, five states
+73 schools
+46% W, 14% AA, 30% H, 58% FRL, 12% ELL, 14% SPED","0","Urban + Suburban + Rural","14","30","12","58"
+"Math for All","Duncan et al.","2018","unpublished","2","PD content and pedagogy","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","4, 5","1 year","one year","Schools in Chicago
+79% FRL, 37% AA, 42% H, 23% ELL","0","Urban","37","42","23","79"
+"Math Solutions","Jacob, Hill & Corey","2017","published","2","PD content and pedagogy","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Classes","4,5","2 years","more than one year","Midsize school district serving a racially and socioeconomically diverse population
+21% W, 63% AA, 14% SPED","0","NA","63","NA","NA","NA"
+"PBS TeacherLine","Dominguez et al.","2006","unpublished","2","PD content and pedagogy","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","3-5","1 year","one year","FL, SC, NY","0","NA","NA","NA","NA","NA"
+"Philosophy for Children","Gorard et al.","2015","unpublished","2","PD content and pedagogy","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","Year 5 (grade 4)","1 year","one year","Schools across England
+47% FRL, 19% SPED, 12% ELL, 26% minority","1","NA","NA","NA","12","47"
+"Primarily Math","Kutaka et al.","2017","published","2","PD content and pedagogy","0","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Teachers","K-2","1 year","one year","3 urban school districts","0","Urban","NA","NA","NA","NA"
+"PD program (project GROW)","Prast et al.","2018","published","2","PD content and pedagogy","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","1-6","1 year","one year","Schools from Netherlands.","1","NA","NA","NA","NA","NA"
+"Using Data","Cavalluzzo et al.","2014","unpublished","2","PD content and pedagogy","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","4,5","2 years","more than one year","Large urban district in Jacksonville, Florida 47% AA, 9% H, 66% FRL, 10% SPED","0","Urban","47","9","NA","66"
+"ISI Math","Connor et al.","2018","published","3","PD for classroom","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","2","1 year","one year","North FL
+84% W, 5% AA","0","NA","NA","NA","NA","NA"
+"PAX Good Behavior Game","Weis, Osborne & Dean","2015","published","3","PD for classroom","0","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Classes","1,2","1 year","one year","6 rural and urban districts in Ohio 82% W, 48% FRL","0","Urbal + Rural","NA","NA","NA","48"
+"ReflectED","Motteram et al.","2016","unpublished","3","PD for classroom","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Classes","Year 5 (grade 4)","1 year","one year","30 schools across England","1","Urban + rural","NA","NA","NA","NA"
+"Spring Math","VanDerHeyden et al.","2012","published","3","PD for classroom","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Classes","5","1 year","one year","Mississippi. 34% W, 6% A, 36% AA, 4% H, 11% SPED, 57% FRL.","0","Urban","36","4","NA","57"
+"TAI","Stevens & Slavin","1995","published","3","PD for classroom","0","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Schools","2-6","2 years","more than one year","Schools in suburban Maryland district
+7% minority, 10% FRL, 9% SPED","0","Suburban","NA","NA","NA","10"
+"TAI","Karper & Melnick","1993","published","3","PD for classroom","0","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Classes","4-5","1 year","one year","District in Hershey, Pennsylvania","0","NA","NA","NA","NA","NA"
+"Math PALS","Wood et al.","2020","published","3","PD for classroom","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","1","1 year","one year","Schools in northern Florida
+45% FRL, 84% W, 4% AA, 3% H","0","Rural","4","3","NA","45"
+"AMSTI","Newman et al.","2012","unpublished","4","PD focused on curriculum","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","4-5","1 year","one year","40 districts in Alabama
+ 49% minority, 64%FRL","0","NA","NA","NA","NA","64"
+"EarlyMath PD","Reid et al.","2014","unpublished","4","PD focused on curriculum","0","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Schools","K-2","2 years","more than one year","Schools in a large Midwestern city","0","Urban","NA","NA","NA","NA"
+"Math Pathways & Pittfalls","Heller et al.","2010","unpublished","4","PD focused on curriculum","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","4, 5","1 year","one year","At-risk students in 25 metropolitan schools across Arizona, California, Illinois
+55% ELL, 76% FRL, 8% AA, 69% H 9%,W, 4%A","0","Urban","8","69","55","76"
+"Mathematics Mastery","Vignoles et al.","2015","unpublished","4","PD focused on curriculum","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","Year 1 (K)","1 year","one year","England","1","NA","NA","NA","NA","NA"
+"Mathematics Reasoning","Stokes et al.","2018","unpublished","4","PD focused on curriculum","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","Year 2 (grade 1)","12-15 weeks","less than one year","England. 23% FRL.","1","NA","NA","NA","NA","23"
+"Mathematics Reasoning","Worth et al.","2015","unpublished","4","PD focused on curriculum","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","Year 2(grade 1)","4 months","less than one year","Urban and rural schools across England
+16% FRL, 14% SPED, 14% ELL","1","Urban + rural","NA","NA","14","16"
+"Math Expressions","Agodini et al.","2010","published","4","PD focused on curriculum","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","1, 2","1 year","one year","Disadvantaged schools in 12 districts across Connecticut, Florida, Kentucky, Minnesota, Mississipi, Missouri, New York, Nevada, South Carolina, Texas
+ 26% AA, 30% H, 10% ELL","0","Urban + Suburban + Rural","26","30","10","NA"
+"MathsFlip","Rudd et al.","2017","unpublished","4","PD focused on software","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","Year 5, 6 (grade 4, 5)","1 year","one year","England. 25% FRL, 37% ELL","1","NA","NA","NA","37","25"
+"Odyssey Math","Wijekumar et al.","2009","unpublished","4","PD focused on software","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","4","1 year","one year","32 schools in Delaware, New Jersey, and Pennsylvania
+18% FRL, 25% minority, 7% ELL","0","NA","NA","NA","7","18"
+"Reasoning Mind","Shechtman et al.","2019","published","4","PD focused on software","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","5","1 year","one year","Urban, rural and suburban schools in West Virginia
+94% W, 50% FRL","0","Urban + suburban + rural","NA","NA","NA","50"
+"Reasoning Mind","Wang & Woodworth","2011b","unpublished","4","PD focused on software","1","NotTutoring","NotTutoring","NotTutoring","Student randomized","1","0","Student","2-5","4 months","less than one year","San Francisco Bay Area
+ 87% H, 81% ELL, 88% FRL","0","Urban","NA","87","81","88"
+"Time to Know","Rosen & Beck-Hill","2012","published","4","PD focused on software","1","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Schools","4,5","6 months","less than one year","Districts in Dallas, Texas
+ 18% AA, 63% H, 15% W","0","Urban","18","63","NA","NA"
+"Early Learning in Mathematics","Clarke et al.","2015","published","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Classes","K, 1","1 year","one year","46 urban, suburban, charter schools in Oregon and Texas. 56% FRL, 38% ELL, 36% H, 8% SPED","0","Urban + Suburban + Rural","NA","36","38","56"
+"enVisionMATH","Resendez & Azin; Resendez & Sridharan","2006","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","3, 5","1 year","one year","4 schools in Ohio and New Jersey  
+9%AA, 18%FRL","0","Urban + Suburban","9","NA","NA","18"
+"enVisionMATH","Resendez & Manley; Resendez & Sridharan","2005","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","2, 4","1 year","one year","6 schools in Washington, Wyoming, Virginia, Kentucky  
+20% AA, 9% H, 10%ELL, 46% FRL","0","NA","20","9","10","46"
+"enVisionMATH","Resendez, Azin & Strobel","2009","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","2-3, 4-5","2 years","more than one year","6 schools in MT, OH, MH, MA, KY, TN,  
+95%W, 19% FRL","0","NA","NA","NA","NA","19"
+"enVisionMATH","Strobel, Resendez & DuBose","2017","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","1-2, 4-5","2 years","more than one year","8 urban, suburban and rural schools in different state. 
+24% W, 37% AA, 33% H, 15% ELL, 74% FRL","0","Urban + Suburban + Rural","37","33","15","74"
+"Everyday Mathematics","Vaden-Kiernan et al.","2015","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","K-5","2 years","more than one year","7 districts across US
+51% AA, 73% FRL","0","Urban + Suburban + Rural","51","NA","NA","73"
+"GO Math!","Eddy et al.","2014","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","1-3","1 year","one year","9 schools in Arizona, Idaho, Illinois, Michigan, Ohio, Pennsylvania, Utah  36% AA, 35% H, 31% ELL, 35% FRL","0","Suburban + Rural","36","35","31","35"
+"Investigations in Number, Data, and Space","Agodini et al.","2010","published","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","1,2","1 year","one year","disadvantaged schools in 12 districts across Connecticut, Florida, Kentucky, Minnesota, Mississipi, Missouri, New York, Nevada, South Carolina, Texas  23% AA, 32%H, 13% ELL","0","Urban + Suburban + Rural","23","32","13","NA"
+"Investigations in Number, Data, and Space","Gatti & Giordano","2008","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Classes","1,4","1 year","one year","9 schools in 4 districts in MA, SC, AZ, OR
+52% FRL, 27% H, 9% AA","0","Urban","9","27","NA","52"
+"JUMP Math","Solomon et al.","2011","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","5","5 months","less than one year","Rural Canadian schools, Ontario","1","Rural","NA","NA","NA","NA"
+"Math Connects","Jordan","2009","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Teachers","2,4","1 year","one year","A mix of urban and suburban schools across 11 states.
+61% W, 14% AA, 16% H","0","Urban + Suburban","14","16","NA","NA"
+"Math in Focus","Educational Research Institute of America","2010","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Quasi-experiment","0","0","Student","4","1 year","one year","Suburban district in New Jersey
+ 15% FRL, 30% minority, 12% SPED","0","Suburban","NA","NA","NA","15"
+"Math in Focus","Educational Research Institute of America","2013","unpublished","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Classes","3","1 year","one year","Urban schools
+ 59% minority, 58% FRL, 9% ELL","0","Urban","NA","NA","NA","58"
+"Math in Focus","Jaciw et al.","2016","published","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teams of teachers","3-5","1 year","one year","Clark County Nevada
+ 47% H, 10% AA, 56% FRL, 11% SPED","0","NA","10","47","NA","56"
+"Saxon Math","Agodini et al.","2010","published","5","Curricula no tech","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","1,2","1 year","one year","Disadvantaged schools in 12 districts across Connecticut, Florida, Kentucky, Minnesota, Mississipi, Missouri, New York, Nevada, South Carolina, Texas
+ 21% AA, 40% H, 12%ELL","0","Urban + suburban + rural","21","40","12","NA"
+"Accelerated Math","Lambert, Algozzine & Mc Gee","2014","published","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Classes","2-5","1 year","one year","3 schools in Midwestern US
+40% minority, 76% FRL, 18% SPED","0","NA","NA","NA","NA","76"
+"Accelerated Math","Lehmann & Seeber","2005","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Classes","4-6","4 months","less than one year","14 schools in North Rhine-Westphalia, Germany
+approx. 18% immigrants","1","NA","NA","NA","NA","NA"
+"Accelerated Math","Ysseldyke & Bolt","2007","published","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","2-5","1 year","one year","7 districts in AL, FL, SC, TX, MS, MI, NC
+44%AA, 45%H","0","NA","44","45","NA","NA"
+"Digital Feedback in Primary Maths","Sutherland et al.","2019","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Classes","year 4, 5 (grade 3, 4)","1 year","one year","England. 30% FRL","1","NA","NA","NA","NA","30"
+"DreamBox Learning","Lenard & Rhea","2019","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","K-5","6 months","less than one year","School in North Carolina. 18% H, 22% AA, 47% W, 11% LEP, 25% FRL","0","NA","22","18","11","25"
+"DreamBox Learning","Wang & Woodworth","2011a","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Student randomized","1","0","Students","K, 1","4 months","less than one year","San Francisco Bay Area
+ 87% H, 81% ELL, 88% FRL","0","NA","NA","87","81","88"
+"Educational Program for Gifted Youth (EGPY)","Suppes et al.","2013","published","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Student randomized","1","0","Student","2-5","1 year","one year","8 Title I schools in California  
+55%AA, 31% H","0","NA","55","31","NA","NA"
+"ScratchMaths","Boylan et al.","2018","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","Year 5, 6 (grade 4, 5)","2 years","more than one year","England. 28% FRL.","1","NA","NA","NA","NA","28"
+"ST math","Rutherford et al.","2014","published","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","3-5","1, 2 years","more than one year","Southern California
+ low performing schools
+ 90% FRL, 85% H, 63% ELL","0","NA","NA","85","63","90"
+"Successmaker","Gatti","2009","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Schools","3, 5","1 year","one year","Schools in AZ, FL, MA, NJ
+34% H, 34% FRL, 89% ELL, 47% low achievers","0","Suburban","NA","34","89","34"
+"Successmaker","Gatti","2013","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Student randomized","1","0","Students","5","1 year","one year","11 urban, suburban, rural districts in AZ, CA, KS, MI, OR, TX
+49% H, 8% AA, 11% SPED, 17% LEP, 70% FRL","0","Urban + suburban + rural","8","49","17","70"
+"Successmaker","Gatti & Petrochenkov","2010","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Classes","3-5","1 year","one year","Suburban and urban schools in AZ, AR, CA, IN, KS, NY, PA
+88% ELL, 66% FRL,42% H, 12% AA, 40% low achievers","0","Urban + suburban","12","42","88","66"
+"Symphony Math","Schwarz","2019","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster quasi-experiment","0","1","Schools","1-4","1 year","one year","Kentucky
+87% W, 57% FRL (all the district)","0","NA","NA","NA","NA","57"
+"Waterford Early Learning","Magnolia Consulting","2012","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Teachers","K-1
+1-2","2 years","more than one year","8 schools across 3 large suburban, 2 city (one large, one small) and one rural district in West South Central region, West Pacific region, and West Mountain region
+19% AA, 53%H, 17% W, 73% FRL, 32% LEP, 5% SPED","0","Urban + Rural","19","53","32","73"
+"Stop and Think","Roy et al.","2019","unpublished","5","Curricula with tech","1","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Year groups","year 3, 5 (grade 2, 4)","1 year","one year","England. 30% FRL","1","Urban + rural","NA","NA","NA","30"
+"Achievement Network ANet","West, Morton & Herlihy","2016","unpublished","6","Benchmark assessments","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","3-5","2 years","more than one year","5 districts: Boston, Chelsea, Springfield (MA), Jefferson Parish (LA), Chicago (IL)
+ 87% AA, 15%ELL, 87% FRL","0","Urban","87","NA","15","87"
+"Acuity","Konstantopoulos et al.","2013","published","6","Benchmark assessments","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","3-6","1 year","one year","Rural, urban, and suburban schools in Indiana","0","Urban + Suburban + Rural","NA","NA","NA","NA"
+"Acuity","Konstantopoulos et al.","2016","published","6","Benchmark assessments","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","3-6","1 year","one year","Schools in Indiana 53% W, 27% AA, 12% H, 57% FRL 19% SPED","0","NA","27","12","NA","57"
+"mClass","Konstantopoulos et al.","2016","published","6","Benchmark assessments","0","NotTutoring","NotTutoring","NotTutoring","Cluster randomized","1","1","Schools","K-2","1 year","one year","Schools in Indiana 27%AA, 12% H, 57% FRL, 19% SPED","0","NA","27","12","NA","57"
